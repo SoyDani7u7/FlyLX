@@ -1,0 +1,9 @@
+name: FlyLX
+main: Fly\Main
+api: [3.2.3]
+author: SoyDeus
+version: 1.0
+commands:
+    fly:
+     description: Cosmetics from servers.
+     permission: fly.cmd
